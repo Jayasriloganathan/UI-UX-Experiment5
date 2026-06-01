@@ -2,7 +2,6 @@
 
 ## Aim:
 To identify user problems, select appropriate UX research methods, and create user personas for two different UX project scenarios to understand user needs and improve user experience.
-[UI_UX_Experiment5_Report.pdf](https://github.com/user-attachments/files/28459182/UI_UX_Experiment5_Report.pdf)
 
 ## Algorithm:
 
@@ -25,6 +24,8 @@ To identify user problems, select appropriate UX research methods, and create us
 9.Document findings and prepare the report.Upload the report and GitHub repository link.
 
 ## Output:
+
+[UI_UX_Experiment5_Report.pdf](https://github.com/user-attachments/files/28459182/UI_UX_Experiment5_Report.pdf)
 
 
 <img width="1086" height="1448" alt="ChatGPT Image Jun 1, 2026, 02_48_31 PM" src="https://github.com/user-attachments/assets/6ced06a7-6bb8-49be-8553-41255e14bbe9" />
